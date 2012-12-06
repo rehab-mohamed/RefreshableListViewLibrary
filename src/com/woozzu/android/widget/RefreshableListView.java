@@ -16,7 +16,8 @@
 
 package com.woozzu.android.widget;
 
-import jp.cyberagent.android.base.R;
+import com.woozzu.android.R;
+
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;
